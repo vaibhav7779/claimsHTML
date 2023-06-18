@@ -28039,7 +28039,7 @@ aFt(a,b){return a.b<=b.b?b:a},
 aF4(){var s,r=null,q=A.aCs(r,B.vC,r)
 if($.F==null)A.aPX()
 s=$.F
-s.Wd(new A.Ae(new A.xe(B.NE,B.Px,r,r,B.vB,new A.Nx(r),B.Py,!0,!1,new A.A5(new A.Ie("lotty.json",r,r,r),r,r,r,r,r,r,r,r,r,800,1200,r,r,r,r,r,r,r),4000,B.Fe,r,1/0,r,r),q,!1,r))
+s.Wd(new A.Ae(new A.xe(B.NE,B.Px,r,r,B.vB,new A.Nx(r),B.Py,!0,!1,new A.A5(new A.Ie("assets/lotty.json",r,r,r),r,r,r,r,r,r,r,r,r,800,1200,r,r,r,r,r,r,r),4000,B.Fe,r,1/0,r,r),q,!1,r))
 s.Ix()
 return r}},J={
 ay_(a,b,c,d){return{i:a,p:b,e:c,x:d}},
@@ -89047,7 +89047,7 @@ gu(a){return A.Q.prototype.gu.call(this,this)}}
 A.pD.prototype={
 ah(){return new A.UJ(new A.bq(null,t.am),A.awM(null),A.awM(null),B.i)}}
 A.UJ.prototype={
-K(a){var s,r,q=this,p=null,o=A.azg(p,!0,p,B.Uv),n=A.aM4("images/avatar.png",200,200),m=A.aiS(!1,q.e,B.Hg,p,B.QK,1,!1,p,B.aI,new A.aof()),l=q.r
+K(a){var s,r,q=this,p=null,o=A.azg(p,!0,p,B.Uv),n=A.aM4("assets/images/avatar.png",200,200),m=A.aiS(!1,q.e,B.Hg,p,B.QK,1,!1,p,B.aI,new A.aof()),l=q.r
 l=A.aiS(!1,q.f,A.aAz(p,B.c7,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,p,!1,p,p,p,"Password",p,B.GW,p,p,p,p,p,A.n5(!1,p,!0,A.a7M(l?B.GO:B.GP,p),p,!0,p,p,p,p,p,p,p,p,p,new A.aog(q),p,p,p,p,p),p,p,p,p,p),p,p,1,l,p,B.aI,new A.aoh())
 s=!q.w?B.Un:B.C0
 r=t.p
