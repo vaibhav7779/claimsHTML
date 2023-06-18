@@ -28039,7 +28039,7 @@ aFt(a,b){return a.b<=b.b?b:a},
 aF4(){var s,r=null,q=A.aCs(r,B.vC,r)
 if($.F==null)A.aPX()
 s=$.F
-s.Wd(new A.Ae(new A.xe(B.NE,B.Px,r,r,B.vB,new A.Nx(r),B.Py,!0,!1,new A.A5(new A.Ie("assets/lotty.json",r,r,r),r,r,r,r,r,r,r,r,r,800,1200,r,r,r,r,r,r,r),4000,B.Fe,r,1/0,r,r),q,!1,r))
+s.Wd(new A.Ae(new A.xe(B.NE,B.Px,r,r,B.vB,new A.Nx(r),B.Py,!0,!1,new A.A5(new A.Ie("assets/lotty.json",r,r,r),r,r,r,r,r,r,r,r,r,600,600,r,r,r,r,r,r,r),4000,B.Fe,r,1/0,r,r),q,!1,r))
 s.Ix()
 return r}},J={
 ay_(a,b,c,d){return{i:a,p:b,e:c,x:d}},
