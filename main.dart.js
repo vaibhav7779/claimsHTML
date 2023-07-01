@@ -25475,7 +25475,7 @@ aD9(a,b){return a.b<=b.b?b:a},
 aCM(){var s,r=4293072951,q=null,p=A.aAl(q,A.aPm(new A.m(r)),q)
 if($.E==null)A.aLQ()
 s=$.E
-s.Ur(new A.zm(new A.wt(B.Mj,B.Oe,q,q,new A.m(r),new A.Mg(q),B.Of,!0,!1,"assets/images/lottie.gif",2000,B.Ek,q,300,q,q),p,!1,q))
+s.Ur(new A.zm(new A.wt(B.Mj,B.Oe,q,q,new A.m(r),new A.Mg(q),B.Of,!0,!1,"assets/images/lottie.gif",3800,B.Ek,q,300,q,q),p,!1,q))
 s.He()
 return q}},J={
 aw7(a,b,c,d){return{i:a,p:b,e:c,x:d}},
